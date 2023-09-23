@@ -14,7 +14,7 @@ def display_hangman(chances):
         """
             ---------
             |       |
-            |       0O O O O O O O 
+            |       0
             |      \\|/
             |      / \\   
             _       
